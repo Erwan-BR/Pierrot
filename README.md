@@ -51,7 +51,7 @@ In addition, the following libraries must be installed for those who will be dev
 ```python
 pip install pyinstaller
 pip install openpyxl
-pip install PyQt5
+pip install PyQt6
 ```
 
 ---
